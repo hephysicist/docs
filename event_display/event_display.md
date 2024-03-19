@@ -22,7 +22,7 @@ scram b
 ```
 To access the files on CERN storage you may need to run `voms-proxy-init --rfc --voms cms` command and init your GRID proxy. 
 Configuration files are stored in the `ISpy/Analyzers/python` directory. 
-You can find an example configuration file in the current directory. After editing the config, you can run the analysis by typing:
+You can find an [example configuration file](https://github.com/hephysicist/docs/blob/8b27590540f080e07c58b74f887e0aeb7d0cdd44/event_display/ispy_miniAOD.py) in the current directory. After editing the config, you can run the analysis by typing:
 ```
 cmsRun python/ispy_miniAOD.py #Put here the name of your config file
 ```
