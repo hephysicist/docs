@@ -1,1 +1,3 @@
-# docs
+### We need to find a place to store docs.
+### If we know where to store the docs, but we don't know it. 
+### This is dread...
